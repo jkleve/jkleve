@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--h3 align="center">A Software Engineer who enjoys C++ and minimalism.</h3-->
 #### I'm a Software Engineer who enjoys C++ and minimalism.
 
-I currently work at Belvedere Trading, where I, amoung other things, focus on low latency execution software.
+I currently work at Belvedere Trading where I, amoung other things, focus on low latency execution software.
 
 ## Repos
 
